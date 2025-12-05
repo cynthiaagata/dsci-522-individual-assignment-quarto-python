@@ -6,7 +6,7 @@ editor: source
 
 bibliography: references.bib
 execute:
-    echo: false
+  echo: false
 ---
 
 ```{python}
